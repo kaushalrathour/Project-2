@@ -1,3 +1,3 @@
 # Project 2
-This project was created from local system
-Created By Kaushal Rathour
+This Project was created from Local System.
+Created By Kaushal Rathour.
